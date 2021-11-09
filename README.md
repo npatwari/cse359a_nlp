@@ -1,4 +1,4 @@
-# Workshop // Exploring Gender Bias in Word Embeddings
+#  STILL IN PROGRESS, PLEASE DO NOT DOWNLOAD
 
 > Towards an intuitive technical understanding of bias in machine learning systems
 
