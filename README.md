@@ -5,7 +5,11 @@
 
 This lab is based on a tutorial for the responsibly Python package. You can view the original tutorial and learn more about responsibly here: https://learn.responsibly.ai/word-embedding.
 
-To complete the assignment, please download the entire `nlp_assignment` folder.  
+#### Logistics
+
+To complete the assignment, please make sure you have the entire `nlp_assignment` folder. The easiest way to do this is to clone or download the entire repository.
+
+You will be working in a Python notebook. You should be able to include both your written responses and code in this file. When you submit on Canvas, submit only the notebook, with your last name added to the file name as follows: nlp_assignment_*lastname*.ipynb. If you are having any trouble with this, please feel free to ask questions on Piazza.
 
 ### License
 
