@@ -1,5 +1,5 @@
 ##  Signals, Data, and Equity (Fall 2021)
-> Instructor Neal Patwari, Assistant in Instruction Alex DiChristofano
+> Instructor: Neal Patwari, Assistant in Instruction: Alex DiChristofano
 
 ### NLP Lab 
 
