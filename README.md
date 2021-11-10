@@ -9,7 +9,7 @@ This lab is based on a tutorial for the responsibly Python package. You can view
 
 To complete the assignment, please make sure you have the entire `nlp_assignment` folder. The folder includes images which will load into your notebook and aid in your understanding. The easiest way to do this is to clone or download the entire repository.
 
-You will be working in a Python notebook. You should be able to include both your written responses and code in this file. **When you submit on Canvas, submit only the notebook, with your last name added to the file name as follows: nlp_assignment_*lastname*.ipynb**. If you are having any trouble with this, please feel free to ask questions on Piazza.
+You will be working in a Python notebook. You should be able to include both your written responses and code in this file. **When you submit on Canvas, submit only the notebook, with your last name added to the file name as follows: `nlp_assignment_lastname.ipynb`.** If you feel the need to include other files or are otherwise having any trouble with this, please feel free to ask questions on Piazza.
 
 ### License
 
