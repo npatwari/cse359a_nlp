@@ -1,5 +1,6 @@
 ##  Signals, Data, and Equity (Fall 2022)
 > Instructors: Neal Patwari, Caitlind Walker
+
 > Assignment Credit to: Alex DiChristofano (Fall 2021)
 
 ### NLP Lab 
